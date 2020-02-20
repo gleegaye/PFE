@@ -1,0 +1,16 @@
+{
+  "CN": "front-proxy-ca",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "FR",
+      "L": "Paris",
+      "O": "front-proxy-ca",
+      "O": "Kubernetes",
+      "ST": "ile-de-france"
+    }
+  ]
+}
